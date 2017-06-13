@@ -10,11 +10,15 @@ I am using this as a learning experience for completing [this series of tutorial
 
 
 ## Inspiration
-The design will be inspired by Japanese festival timetables such as this (from the first day of [Rock in Japan 2016](http://rijfes.jp/2016/)):
+The design will be inspired by Japanese festival timetables such as this from the first day of [Rock in Japan 2016](http://rijfes.jp/2016/):
 
-<img src="http://img2.rijfes.jp.s3.amazonaws.com/2016/img/timetable/0719cza/0806.png" alt="Festival Timetable" width="45%">
+<img src="http://img2.rijfes.jp.s3.amazonaws.com/2016/img/timetable/0719cza/0806.png" alt="Rock in Japan 2016" width="45%" style="float:left">
 
-I think this is a great way to display the timetable (though end times would be nice!) and if it was interactive it might be even better.
+Or this from [Dead Pop Festival 2017](http://www.deadpopfest.com/):
+
+<img src="http://www.deadpopfest.com/images2017/dpf_2017_tt.jpeg" alt="Dead Pop Festival 2017" width="45%" style="float:left">
+
+I think this is a great way to display the timetable and if it was interactive, perhaps like [this MetRock 2017 timetable](http://metrock.jp/artist/timetable/osaka13.html), it might be even better.
 
 ## Ideas
 * Should display timetable
